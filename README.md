@@ -30,6 +30,7 @@ Additionally, you can purchase a **Bonus Assignments pack** with the best non-de
 
 </div>
 
+Mirrors: [mlcourse.ai](https://mlcourse.ai) (main site), [Kaggle Dataset](https://www.kaggle.com/kashnitsky/mlcourse) (same notebooks as Kaggle Notebooks), [Arabic version](jupyter_arabic/README.md)
   <div class="col-md-4" markdown="1">
   <details>
   <summary>Details of the deal</summary>
